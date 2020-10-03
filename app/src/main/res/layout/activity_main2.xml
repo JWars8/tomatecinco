@@ -4,9 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#15EA9F"
-    tools:context=".MainActivity">
-
+    tools:context=".MainActivity2">
     <TableLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent">
@@ -85,7 +83,6 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:background="#0ADCEF"
-                    android:onClick="lanzar"
                     android:text="Iniciar Sesión" />
             </TableRow>
         </TableLayout>
